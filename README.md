@@ -44,7 +44,7 @@ and to deactivate, either exit the termial or run
 conda deactivate DL
 ```
 
-Select it from **environments** tab in Anaconda.
+Select it from **environments** tab in Anaconda and download the required packages by searching for them in Anaconda environment.
 
 
 
