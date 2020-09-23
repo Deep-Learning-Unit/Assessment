@@ -1,4 +1,4 @@
-# Assessment: Object classification in Images
+# Assessment: Multi-class Image Classification
 
 You can work on the assignment in one of two ways: locally on your own machine, or on a virtual machine on Google Colab.
 
