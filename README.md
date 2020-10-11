@@ -2,10 +2,12 @@
 
 You can work on the assignment in one of two ways: locally on your own machine, or on a virtual machine on Google Colab.
 
-**Instructions**
+## **Instructions**
+
 The assessment here provides you with a download link to a zip file containing Colab notebook. You can upload the folder to Drive, open the notebook in Colab (or locally) and work on it, then keep on saving your progress. It is important to note that If you are idle for a certain amount of time or your total connection time exceeds the maximum allowed time (~12 hours), the Colab VM will disconnect. **It is very important to save your code whilst working on the assessment.**
 
-**Converting your .ipynb file to pdf**
+### **Converting your .ipynb file to pdf**
+
 Please paste the following code at the end of your assignment after completing the assignment to convert the notebook into pdf format.
 
 ```
